@@ -27,7 +27,7 @@ LOGO = r"""
 
 MENU_OPTIONS = """
 ***************************
-*        MAIN MENU        *
+*        MEOW MENU        *
 ***************************
 * 1. Generate Shopify CSV *
 * 2. About                *
